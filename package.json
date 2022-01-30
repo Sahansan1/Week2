@@ -1,0 +1,19 @@
+{ 
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "Demo for week2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahansan1/Week2.git"
+  },
+  "author": "Sahan 822679080",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sahansan1/Week2/issues"
+  },
+  "homepage": "https://github.com/Sahansan1/Week2#readme"
+}
